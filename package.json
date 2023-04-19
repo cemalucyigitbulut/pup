@@ -1,0 +1,17 @@
+{
+  "name": "pup-js-deneme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "types": "module",
+  "dependencies": {
+    "puppeteer": "^19.9.1"
+  }
+}
